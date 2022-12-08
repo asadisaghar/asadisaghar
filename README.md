@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saghar. I'm a data sciece consultant in Norway.
 - 👀 I’m currently working on multiple NLP projects.
-- 🌱 I have recently developed an interest for graph networks and their use in data science projects.
+- 🌱 I have recently developed an interest for graph networks and their use in data science
 
 <!---
 asadisaghar/asadisaghar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
