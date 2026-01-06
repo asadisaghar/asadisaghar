@@ -8,7 +8,7 @@ I started my journey simulating **gravitational millilensing** to probe dark hal
 **🛠 Tech Stack & Interests:**
 * **AI/ML:** NLP, LLMs, Classical ML, Data Modeling.
 * **Cloud & Dev:** Azure AI, Docker, Data Pipelines, MLOps.
-* **Community:** Former **PyCon Sweden** organizer and one-time official **"Data Ninja"**.
+* **Fun Fact:** One-time official **"Data Ninja"**.
 
 When I'm not optimizing pipelines, you can find me long-distance running, gardening, or stargazing.
 
